@@ -9,4 +9,4 @@ to phone number pad or Gmail app respectively.
 
 App created during Android App Development Bootcamp on udemy.com
 
-Images used from a freely-usable images source - unsplash.com 
+Image used from a freely-usable images source - unsplash.com 
