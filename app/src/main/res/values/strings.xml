@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration Form App</string>
+    <string name="activity_main_register_with_us">Register With Us</string>
+    <string name="activity_main_first_name">First Name</string>
+    <string name="activity_main_last_name">Last Name</string>
+    <string name="activity_main_email">Email</string>
+    <string name="activity_main_telephone_number">Telephone Number</string>
+    <string name="activity_main_country">Country</string>
+    <string name="activity_main_password">Password</string>
+    <string name="activity_main_create_account">Create Account</string>
+    <string name="activity_summary_thank_you">Thank you for registering! Hope you will enjoy the app!</string>
+    <string name="activity_summary_your_account_details">Your Account Details</string>
+</resources>
