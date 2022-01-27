@@ -8,4 +8,5 @@ Data class and Serialization are used to pass the data from Main to Summary acti
 to phone number pad or Gmail app respectively. 
 
 App created during Android App Development Bootcamp on udemy.com
+
 Images used from a freely-usable images source - unsplash.com 
